@@ -1,6 +1,6 @@
-# LegalTech Tirocinio 2025
+# Tirocinio studio legale 2025
 
-Questo repository raccoglie gli appunti e la documentazione del tirocinio svolto in uno studio legale penale nel 2025. L’obiettivo è raccontare in modo semplice e realistico il percorso formativo, descrivendo le attività concrete e le competenze sviluppate.
+Questo repository raccoglie gli appunti e la documentazione del tirocinio che ho svolto in uno studio legale penale nel 2025. Il mio obiettivo è raccontare il mio percorso formativo, descrivendo le attività e le competenze che ho sviluppato.
 
 ## Attività svolte
 
@@ -12,7 +12,8 @@ Questo repository raccoglie gli appunti e la documentazione del tirocinio svolto
 - Archiviazione digitale e analisi preliminare dei fascicoli, estraendo informazioni chiave a supporto della strategia difensiva.
 - Primo approccio ai principi di digital forensics, nella gestione e conservazione di dati digitali connessi alle indagini.
 - Familiarità con strumenti di legal tech e banche dati giuridiche digitali.
+- Presenza in tribunale per attività legate ai procedimenti seguiti dallo studio, come il deposito o il ritiro di atti, e per ottenere informazioni utili a identificare l’assistito da difendere.
 
 ## Nota
 
-Questo repository non contiene dati sensibili o riferimenti a casi reali. Le descrizioni riportate hanno lo scopo di documentare le attività svolte durante il tirocinio in termini generali e nel rispetto della riservatezza.
+Questa documentazione non contiene dati sensibili o riferimenti a casi reali, nel rispetto della privacy dello studio legale. Le descrizioni che ho riportato hanno lo scopo di documentare le attività svolte durante il tirocinio in termini generali e nel rispetto della riservatezza.
