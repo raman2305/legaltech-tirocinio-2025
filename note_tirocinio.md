@@ -1,0 +1,11 @@
+Durante i mesi di tirocinio ho avuto la possibilità di seguire procedimenti penali reali. Ho letto gli atti d’indagine e ho cercato gli articoli del Codice di Procedura Penale pertinenti, come l’articolo 335, per comprendere il contesto normativo delle varie fasi. Ho imparato a individuare le tappe più significative e a interpretare la logica che le sostiene.
+
+Una delle attività ricorrenti è stata la redazione e il deposito di richieste di informazioni sullo stato dei procedimenti. Questa pratica mi ha insegnato a essere preciso nella stesura e a curare l’archiviazione digitale degli atti utilizzando il gestionale dello studio. Ho anche esercitato l’uso della firma elettronica per depositare i documenti in modo sicuro, prestando attenzione alla protezione dei dati sensibili.
+
+In alcuni casi si è resa necessaria l’analisi della situazione patrimoniale o debitoria delle parti coinvolte. Ho preparato richieste di accesso a banche dati finanziarie e investigative, come quelle della Banca d’Italia, del CRIF e dell’Agenzia delle Entrate, per il tracciamento dei beni e la verifica delle posizioni debitorie. Ho inoltre svolto una visura penale e collaborato nella predisposizione di richieste di visita per familiari di detenuti, rispettando la normativa sulla privacy e le procedure penitenziarie.
+
+Un altro aspetto importante è stato l’archiviazione digitale e l’analisi preliminare dei fascicoli. In pratica significava scansionare documenti, estrarre le informazioni chiave e sintetizzarle per l’avvocato, allo scopo di supportare la strategia difensiva. Ho anche avuto un primo approccio ai principi di digital forensics, occupandomi della gestione e conservazione di dati digitali collegati alle indagini.
+
+Nel corso del tirocinio ho acquisito maggiore familiarità con gli strumenti di legal tech e le banche dati giuridiche digitali, che hanno velocizzato la ricerca e la consultazione di precedenti. Nella quotidianità ho anche imparato a organizzare il lavoro, a stabilire le priorità e a collaborare con i colleghi in modo ordinato.
+
+Specifico infine che in questo repository non sono presenti dati sensibili o personali; le informazioni riportate servono esclusivamente a documentare l’esperienza formativa.

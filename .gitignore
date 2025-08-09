@@ -1,0 +1,21 @@
+# Cartelle e file da ignorare
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambienti virtuali
+.env
+.venv
+env/
+venv/
+ENV/
+
+# File temporanei e cache
+.DS_Store
+*.log
+
+# Meta‑informazioni dei pacchetti Python
+.eggs/
+*.egg-info/
